@@ -1,0 +1,4 @@
+master1,admin123,MASTER,APPROVED
+master2,admin123,MASTER,APPROVED
+master3,admin123,MASTER,APPROVED
+chamidu@gmail.com,1234567,ADMIN,PENDING

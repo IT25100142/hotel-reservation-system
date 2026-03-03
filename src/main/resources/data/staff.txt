@@ -1,0 +1,8 @@
+EMP-101,Amila Perera,General Manager,Administration,amila.p@grandoasis.com,077-123-4567
+EMP-102,Sarah Fernando,Front Desk Supervisor,Reception,sarah.f@grandoasis.com,071-987-6543
+EMP-103,Nuwan Silva,Executive Chef,Food & Beverage,nuwan.s@grandoasis.com,070-555-1234
+EMP-104,Emily Chen,Event Coordinator,Management,emily.c@grandoasis.com,072-444-9988
+EMP-105,Kasun Bandara,Maintenance Supervisor,Maintenance,kasun.b@grandoasis.com,076-111-2222
+EMP-106,Jessica Smith,Housekeeping Lead,Housekeeping,jessica.s@grandoasis.com,077-888-7777
+EMP-107,David Wright,Security Chief,Security,david.w@grandoasis.com,071-222-3333
+EMP-108,Kushani Silva,Junior Receptionist,Reception,kushani.s@grandoasis.com,078-444-5555
